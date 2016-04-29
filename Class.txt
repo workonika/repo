@@ -1,4 +1,4 @@
-print("Hello World");
-print("Dvesti grammov");
-print("Hello my dear Friend");
-print("Glad to see you");
+print("Hello World;");
+print("Dvesti grammov;");
+print("Hello my dear Friend;");
+print("Glad to see you;");
