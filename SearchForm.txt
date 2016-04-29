@@ -1,1 +1,2 @@
 print("Search form");
+print("Added new string");
